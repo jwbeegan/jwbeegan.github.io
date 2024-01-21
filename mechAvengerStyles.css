@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: beige;
+    background: lightgray;
     text-align: center;
 }
 
@@ -8,8 +8,14 @@ a+a {
     margin-left: 10px;
 }
 
-div.containt{
-    text-align: centr;
+div.container{
+    text-align: center;
+}
+
+div.second{
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
 }
 
 ul.list{
