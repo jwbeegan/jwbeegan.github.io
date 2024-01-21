@@ -7,3 +7,12 @@ body {
 a+a {
     margin-left: 10px;
 }
+
+div.containt{
+    text-align: centr;
+}
+
+ul.list{
+    display: inline-block;
+    text-align: left;
+}
