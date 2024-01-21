@@ -1,9 +1,18 @@
 body {
     margin: 0;
-    background: beige;
+    background: lightblue;
     text-align: center;
 }
 
 a+a {
     margin-left: 10px;
+}
+
+div.container{
+    text-align: center;
+}
+div.second{
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
 }
