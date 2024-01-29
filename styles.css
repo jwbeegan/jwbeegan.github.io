@@ -7,3 +7,31 @@ body {
 a+a {
     margin-left: 10px;
 }
+
+div.container{
+    text-align: center;
+}
+
+div.second{
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+}
+
+div.third{
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    margin: 10;
+}
+
+ul.list{
+    display: inline-block;
+    text-align: left;
+    padding-left: 10;
+}
+
+
+h3 {
+    margin: 0;
+}
