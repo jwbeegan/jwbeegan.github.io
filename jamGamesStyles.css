@@ -27,3 +27,9 @@ ul.list{
 h3 {
     margin: 0;
 }
+
+div.text{
+    margin-right: 20%;
+    margin-left: 20%;
+    writing-mode: horizontal-tb;
+}

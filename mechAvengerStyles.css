@@ -23,3 +23,9 @@ ul.list{
     text-align: left;
     padding-left: 10;
 }
+
+div.text{
+    margin-right: 20%;
+    margin-left: 20%;
+    writing-mode: horizontal-tb;
+}
