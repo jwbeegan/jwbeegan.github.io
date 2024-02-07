@@ -37,7 +37,9 @@ h3 {
 }
 
 div.text{
-    margin-right: 20%;
-    margin-left: 20%;
+    margin-right: auto;
+    margin-left: auto;
     writing-mode: horizontal-tb;
+    width: 750;
+    text-align: center;
 }
