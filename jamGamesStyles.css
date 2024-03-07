@@ -34,4 +34,19 @@ div.text{
     writing-mode: horizontal-tb;
     width: 750;
     text-align: center;
+    padding: 15px;
+}
+
+
+
+.img1{
+    max-width: 50vw;
+    max-height: 50vh;
+    margin: auto;
+}
+
+.img2{
+    max-width: 30vw;
+    max-height: 30vh;
+    margin: auto;
 }

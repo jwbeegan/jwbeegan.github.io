@@ -7,3 +7,9 @@ body {
 a+a {
     margin-left: 10px;
 }
+
+.img1{
+    max-width: 25vw;
+    max-height: 25vh;
+    margin: auto;
+}
