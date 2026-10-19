@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    background: lightblue;
+    text-align: center;
+}
+
+a+a {
+    margin-left: 10px;
+}
+
+div.container{
+    text-align: center;
+}
+
+div.second{
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+}
+
+ul.list{
+    display: inline-block;
+    text-align: left;
+    padding-left: 10;
+}
+
+h3 {
+    margin: 0;
+}
+
+div.text{
+    margin-right: auto;
+    margin-left: auto;
+    writing-mode: horizontal-tb;
+    max-width: 750;
+    text-align: center;
+    padding: 15px;
+}
+
+
+
+.img1{
+    max-width: 50vw;
+    max-height: 50vh;
+    margin: auto;
+}
+
+.img2{
+    max-width: 50vw;
+    max-height: 50vh;
+    margin: auto;
+}
